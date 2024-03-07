@@ -9,7 +9,8 @@ X1na Crypto Stealer.
 
  
 <p align="center">
-  Telegram: https://t.me/hackingtoolsf
+ - Telegram: https://t.me/hackingtoolsf
+  
  - [🌌・Telegram](https://t.me/x1naa2)
   <br>
   🔱 Join our Telegram Channel for support 🔱
