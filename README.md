@@ -2,7 +2,7 @@
 X1na Crypto Stealer.
   <div align="center">
   <div>
-   <a href="https://ibb.co/nbVZQcM"><img src="https://i.ibb.co/MsjWPVk/photo-2023-07-11-00-59-54.jpg" alt="photo-2023-07-11-00-59-54" border="0"></a>
+   <a href="https://ibb.co/HXc2pzS"><img src="https://i.ibb.co/QXWcjNg/x1na-c-RYPTO-STEALER.png" alt="x1na-c-RYPTO-STEALER" border="0"></a>
   </div>
   </div> 
 
